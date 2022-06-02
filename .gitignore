@@ -1,5 +1,7 @@
-input/
-models/
-__pycache__
-.ipynb_checkpoints
-tuner_directory/
+.vscode
+**/input
+**/models
+**/tuner_directory
+**/__pycache__
+**/.ipynb_checkpoints/
+*.cpython-39.pyc
